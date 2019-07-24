@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Assignment2(failed)">
+    <classes>
+      <class name="com.wallethub.pages.Assignment2TestRunner">
+        <methods>
+          <include name="runAssignment2"/>
+        </methods>
+      </class> <!-- com.wallethub.pages.Assignment2TestRunner -->
+    </classes>
+  </test> <!-- Assignment2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

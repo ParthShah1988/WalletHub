@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Assignment1">
+    <classes>
+      <class name="com.wallethub.pages.Assignment1TestRunner"/>
+    </classes>
+  </test> <!-- Assignment1 -->
+  
+   <test thread-count="2" name="Assignment2">
+    <classes>
+      <class name="com.wallethub.pages.Assignment2TestRunner"/>
+    </classes>
+  </test> <!-- Assignment1 -->
+  
+</suite> <!-- Suite -->

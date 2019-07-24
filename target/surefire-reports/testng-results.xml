@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82880" started-at="2019-07-24T14:34:24Z" finished-at="2019-07-24T14:35:47Z">
+    <groups>
+    </groups>
+    <test name="Assignment1" duration-ms="63811" started-at="2019-07-24T14:34:24Z" finished-at="2019-07-24T14:35:28Z">
+      <class name="com.wallethub.pages.Assignment1TestRunner">
+        <test-method status="PASS" signature="runAssignment1()[pri:1, instance:com.wallethub.pages.Assignment1TestRunner@6cc4cdb9]" name="runAssignment1" duration-ms="62831" started-at="2019-07-24T14:34:25Z" finished-at="2019-07-24T14:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAssignment1 -->
+      </class> <!-- com.wallethub.pages.Assignment1TestRunner -->
+    </test> <!-- Assignment1 -->
+    <test name="Assignment2" duration-ms="18570" started-at="2019-07-24T14:35:28Z" finished-at="2019-07-24T14:35:47Z">
+      <class name="com.wallethub.pages.Assignment2TestRunner">
+        <test-method status="PASS" signature="runAssignment2()[pri:2, instance:com.wallethub.pages.Assignment2TestRunner@3fc79729]" name="runAssignment2" duration-ms="18569" started-at="2019-07-24T14:35:28Z" finished-at="2019-07-24T14:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAssignment2 -->
+      </class> <!-- com.wallethub.pages.Assignment2TestRunner -->
+    </test> <!-- Assignment2 -->
+  </suite> <!-- Suite -->
+</testng-results>
